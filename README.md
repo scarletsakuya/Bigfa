@@ -1,3 +1,5 @@
+在原版基础上添加了归档和标签模板
+
 # Bigfa
 A theme for Typecho
 
